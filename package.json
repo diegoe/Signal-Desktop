@@ -63,7 +63,7 @@
     "fs-xattr": "0.3.0"
   },
   "dependencies": {
-    "@journeyapps/sqlcipher": "https://github.com/EvanHahn-signal/node-sqlcipher.git#16916949f0c010f6e6d3d5869b10a0ab813eae75",
+    "@journeyapps/sqlcipher": "https://github.com/diegoe/node-sqlcipher.git#c30f38722dcc97a497835c234bdc913a38710160",
     "@sindresorhus/is": "0.8.0",
     "@types/pino": "6.3.6",
     "@types/pino-multi-stream": "5.1.0",
